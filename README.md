@@ -11,7 +11,7 @@ All of the code will be in plain vanilla javascript.
 - [x] 02 - JS and CSS Clock
 - [x] 03 - CSS Variables
 - [x] 04 - Array Cardio Day 1
-- [ ] 05 -
+- [x] 05 - Flex Panel Gallery
 - [ ] 06 - 
 - [ ] 07 -
 - [ ] 08 - 
