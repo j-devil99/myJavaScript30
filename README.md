@@ -5,6 +5,8 @@ All of the code will be in plain vanilla javascript.
 
 ## Challenges
 
+> You can view all of these in my codepen collection here - https://codepen.io/collection/AkvLkY
+
 - [x] 01 - Drum Kit
 - [x] 02 - JS and CSS Clock
 - [x] 03 - CSS Variables
