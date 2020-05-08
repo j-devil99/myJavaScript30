@@ -13,7 +13,7 @@ All of the code will be in plain vanilla javascript.
 - [x] 04 - Array Cardio Day 1
 - [x] 05 - Flex Panel Gallery
 - [x] 06 - Type Ahead 
-- [ ] 07 -
+- [x] 07 - Array Cardio Day 2
 - [ ] 08 - 
 - [ ] 09 -
 - [ ] 10 -
