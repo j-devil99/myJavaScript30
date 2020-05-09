@@ -14,20 +14,33 @@
   ctx.strokeStyle = 'red';
   ctx.lineJoin = 'round';
   ctx.lineCap = 'round';
-  ctx.lineWidth = 100;
+  ctx.lineWidth = 0;
   var lastX = 0;
   var lastY = 0;
+  var hue = 0;
+  var thicc = 0;
+  var flip = true;
+  // ctx.globalCompositeOperation = 'luminosity';
 
   let isDrawing = false;
 
   function draw(e){
     if(!isDrawing) return;
+    ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
+    ctx.lineWidth = thicc;
     ctx.beginPath();
     ctx.moveTo(lastX, lastY);
     ctx.lineTo(e.offsetX, e.offsetY);
     ctx.stroke(); 
     lastX = e.offsetX;
     lastY = e.offsetY;
+    hue++;
+    hue%=360;
+    if(thicc > 100 || thicc < 0){
+      flip = !flip;
+    }
+    if(flip) thicc++;
+    else thicc--;
 
   }
   
