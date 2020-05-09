@@ -14,7 +14,7 @@ All of the code will be in plain vanilla javascript.
 - [x] 05 - Flex Panel Gallery
 - [x] 06 - Type Ahead 
 - [x] 07 - Array Cardio Day 2
-- [ ] 08 - 
+- [x] 08 - Fun with Canvas 
 - [ ] 09 -
 - [ ] 10 -
 - [ ] 11 -
