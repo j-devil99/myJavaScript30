@@ -18,28 +18,67 @@
     }
 
     // Regular
+    console.log('yooooo');
 
     // Interpolated
+    console.log('it\'s ' + (new Date().getFullYear()));
 
     // Styled
+    console.log('%c I am red', 'background: red; font-size: 20px');
 
     // warning!
+    console.warn('I dare you!');
 
     // Error :|
+    console.error('You crossed some lines');
 
     // Info
+    console.info('Gangadhar hi Shaktiman');
 
     // Testing
+    const p = document.querySelector('p');
+
+    console.assert(p.classList.contains('yo'), 'This p ain\'t cool :(');
 
     // clearing
+    console.clear();
 
     // Viewing DOM Elements
+    console.dir(p);
 
     // Grouping together
+    dogs.forEach(dog => {
+      console.groupCollapsed(`${dog.name}`);
+      console.log(`This is ${dog.name}`);
+      console.log(`${dog.name} is ${dog.age} years old`);
+      console.log(`${dog.name} is ${dog.age * 7} dog years old`);
+      console.groupEnd(`${dog.name}`);
+    });
 
     // counting
+    console.count('lorem');
+    console.count('ipsum');
+    console.count('ipsum');
+    console.count('ipsum');
+    console.count('ipsum');
+    console.count('lorem');
+    console.count('lorem');
+    console.count('lorem');
+    console.count('ipsum');
+    console.count('lorem');
+    console.count('lorem');
+    console.count('lorem');
+    console.count('ipsum');
+    console.count('lorem');
 
     // timing
+    console.time('fetching data');
+    fetch('https://api.github.com/users/j-devil99')
+      .then(data => data.json())
+      .then(data =>{
+        console.timeEnd('fetching data');
+        console.log(data);
+      });
 
   </script>
 </body>

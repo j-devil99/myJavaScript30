@@ -15,7 +15,7 @@ All of the code will be in plain vanilla javascript.
 - [x] 06 - Type Ahead 
 - [x] 07 - Array Cardio Day 2
 - [x] 08 - Fun with Canvas 
-- [ ] 09 -
+- [x] 09 - Dev Tools Domination
 - [ ] 10 -
 - [ ] 11 -
 - [ ] 12 -
