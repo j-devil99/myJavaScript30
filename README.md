@@ -16,7 +16,7 @@ All of the code will be in plain vanilla javascript.
 - [x] 07 - Array Cardio Day 2
 - [x] 08 - Fun with Canvas 
 - [x] 09 - Dev Tools Domination
-- [ ] 10 -
+- [x] 10 - Hold Shift and Check Checkboxes
 - [ ] 11 -
 - [ ] 12 -
 - [ ] 13 -
