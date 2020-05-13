@@ -17,7 +17,7 @@ All of the code will be in plain vanilla javascript.
 - [x] 08 - Fun with Canvas 
 - [x] 09 - Dev Tools Domination
 - [x] 10 - Hold Shift and Check Checkboxes
-- [ ] 11 -
+- [x] 11 - Custom Video Player 
 - [ ] 12 -
 - [ ] 13 -
 - [ ] 14 -
