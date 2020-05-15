@@ -18,7 +18,7 @@ All of the code will be in plain vanilla javascript.
 - [x] 09 - Dev Tools Domination
 - [x] 10 - Hold Shift and Check Checkboxes
 - [x] 11 - Custom Video Player 
-- [ ] 12 -
+- [x] 12 - KONAMI Code Detection
 - [ ] 13 -
 - [ ] 14 -
 - [ ] 15 -
