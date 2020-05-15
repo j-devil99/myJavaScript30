@@ -19,7 +19,7 @@ All of the code will be in plain vanilla javascript.
 - [x] 10 - Hold Shift and Check Checkboxes
 - [x] 11 - Custom Video Player 
 - [x] 12 - KONAMI Code Detection
-- [ ] 13 -
+- [x] 13 - Slide in on Scroll
 - [ ] 14 -
 - [ ] 15 -
 - [ ] 16 - 
