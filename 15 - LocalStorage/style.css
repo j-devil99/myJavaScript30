@@ -79,3 +79,29 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+.utility{
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;  
+}
+
+.utility button {
+  padding: 10px;
+  outline: 0;
+  flex: content;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  color: aliceblue;
+}
+
+#checkAll {
+  background-color: rgb(65, 165, 65);
+}
+
+#clearAll{
+  background-color: rgb(230, 41, 41);
+}
+
+#uncheckAll{
+  background-color: rgb(85, 85, 202);
+}
