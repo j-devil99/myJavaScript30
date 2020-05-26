@@ -22,10 +22,10 @@ All of the code will be in plain vanilla javascript.
 - [x] 13 - Slide in on Scroll
 - [x] 14 - JavaScript References VS Copying
 - [x] 15 - LocalStorage
-- [ ] 16 - 
-- [ ] 17 -
-- [ ] 18 -
-- [ ] 19 -
+- [x] 16 - Mouse Move Shadow
+- [x] 17 - Sort Without Articles
+- [x] 18 - Adding Up Times With Reduce
+- [x] 19 - Webcam Fun
 - [ ] 20 -
 - [ ] 21 -
 - [ ] 22 -
