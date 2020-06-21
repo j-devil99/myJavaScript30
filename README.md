@@ -35,5 +35,5 @@ All of the code will be in plain vanilla javascript.
 - [x] 26 - Stripe Follow Along Nav
 - [x] 27 - Click and Drag
 - [x] 28 - Video Speed Controller
-- [ ] 29 -
-- [ ] 30 -
+- [x] 29 - Countdown Timer
+- [x] 30 - Whack a Mole
