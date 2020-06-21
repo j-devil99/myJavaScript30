@@ -26,14 +26,14 @@ All of the code will be in plain vanilla javascript.
 - [x] 17 - Sort Without Articles
 - [x] 18 - Adding Up Times With Reduce
 - [x] 19 - Webcam Fun
-- [ ] 20 -
-- [ ] 21 -
-- [ ] 22 -
-- [ ] 23 -
-- [ ] 24 -
-- [ ] 25 -
-- [ ] 26 -
-- [ ] 27 -
-- [ ] 28 -
+- [x] 20 - Speech Detection
+- [x] 21 - Geolocation
+- [x] 22 - Follow Along Highlighter
+- [x] 23 - Speech Synthesis
+- [x] 24 - Sticky Nav
+- [x] 25 - Event Capture, Propagation, Bubbling and Once
+- [x] 26 - Stripe Follow Along Nav
+- [x] 27 - Click and Drag
+- [x] 28 - Video Speed Controller
 - [ ] 29 -
 - [ ] 30 -
